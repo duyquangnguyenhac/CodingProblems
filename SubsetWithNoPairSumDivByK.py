@@ -12,7 +12,7 @@ def non_divisible_subset(arr, k):
 
 	res = min(f[0], 1)
 
-	for i in range(1, (k//2) + 1):
+	for i in range(1, (k + 1) // 2):
 		res += max(f[i], f[k - i])
 
 	return res
