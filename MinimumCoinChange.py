@@ -13,6 +13,7 @@ def MinimumCoinChange(coins, k):
 				dp[i] = min(dp[i], dp[i - coins[j]] + 1)
 	return dp[k]
 
+
 if __name__ == '__main__':
 	testA = [1, 2, 5]
 	S1 = 11

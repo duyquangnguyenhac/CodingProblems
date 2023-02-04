@@ -1,0 +1,854 @@
+{
+    "data": {
+        "problemsetQuestionList": {
+            "total": 28,
+            "questions": [
+                {
+                    "acRate": 46.345981724704956,
+                    "difficulty": "Hard",
+                    "freqBar": 100,
+                    "frontendQuestionId": "786",
+                    "isFavor": false,
+                    "paidOnly": false,
+                    "status": null,
+                    "title": "K-th Smallest Prime Fraction",
+                    "titleSlug": "k-th-smallest-prime-fraction",
+                    "topicTags": [
+                        {
+                            "name": "Array",
+                            "id": "VG9waWNUYWdOb2RlOjU=",
+                            "slug": "array"
+                        },
+                        {
+                            "name": "Binary Search",
+                            "id": "VG9waWNUYWdOb2RlOjEx",
+                            "slug": "binary-search"
+                        },
+                        {
+                            "name": "Heap (Priority Queue)",
+                            "id": "VG9waWNUYWdOb2RlOjYxMDUw",
+                            "slug": "heap-priority-queue"
+                        }
+                    ],
+                    "hasSolution": true,
+                    "hasVideoSolution": false
+                },
+                {
+                    "acRate": 52.66856408835604,
+                    "difficulty": "Medium",
+                    "freqBar": 81.7427270742069,
+                    "frontendQuestionId": "498",
+                    "isFavor": false,
+                    "paidOnly": false,
+                    "status": null,
+                    "title": "Diagonal Traverse",
+                    "titleSlug": "diagonal-traverse",
+                    "topicTags": [
+                        {
+                            "name": "Array",
+                            "id": "VG9waWNUYWdOb2RlOjU=",
+                            "slug": "array"
+                        },
+                        {
+                            "name": "Matrix",
+                            "id": "VG9waWNUYWdOb2RlOjYxMDUz",
+                            "slug": "matrix"
+                        },
+                        {
+                            "name": "Simulation",
+                            "id": "VG9waWNUYWdOb2RlOjYxMDU1",
+                            "slug": "simulation"
+                        }
+                    ],
+                    "hasSolution": true,
+                    "hasVideoSolution": false
+                },
+                {
+                    "acRate": 44.79340776893762,
+                    "difficulty": "Medium",
+                    "freqBar": 80.1499733060869,
+                    "frontendQuestionId": "755",
+                    "isFavor": false,
+                    "paidOnly": true,
+                    "status": null,
+                    "title": "Pour Water",
+                    "titleSlug": "pour-water",
+                    "topicTags": [
+                        {
+                            "name": "Array",
+                            "id": "VG9waWNUYWdOb2RlOjU=",
+                            "slug": "array"
+                        },
+                        {
+                            "name": "Simulation",
+                            "id": "VG9waWNUYWdOb2RlOjYxMDU1",
+                            "slug": "simulation"
+                        }
+                    ],
+                    "hasSolution": false,
+                    "hasVideoSolution": false
+                },
+                {
+                    "acRate": 46.090132729704706,
+                    "difficulty": "Medium",
+                    "freqBar": 61.892700380293796,
+                    "frontendQuestionId": "1391",
+                    "isFavor": false,
+                    "paidOnly": false,
+                    "status": null,
+                    "title": "Check if There is a Valid Path in a Grid",
+                    "titleSlug": "check-if-there-is-a-valid-path-in-a-grid",
+                    "topicTags": [
+                        {
+                            "name": "Array",
+                            "id": "VG9waWNUYWdOb2RlOjU=",
+                            "slug": "array"
+                        },
+                        {
+                            "name": "Depth-First Search",
+                            "id": "VG9waWNUYWdOb2RlOjIx",
+                            "slug": "depth-first-search"
+                        },
+                        {
+                            "name": "Breadth-First Search",
+                            "id": "VG9waWNUYWdOb2RlOjIy",
+                            "slug": "breadth-first-search"
+                        },
+                        {
+                            "name": "Union Find",
+                            "id": "VG9waWNUYWdOb2RlOjIz",
+                            "slug": "union-find"
+                        },
+                        {
+                            "name": "Matrix",
+                            "id": "VG9waWNUYWdOb2RlOjYxMDUz",
+                            "slug": "matrix"
+                        }
+                    ],
+                    "hasSolution": false,
+                    "hasVideoSolution": false
+                },
+                {
+                    "acRate": 44.927844706483334,
+                    "difficulty": "Medium",
+                    "freqBar": 53.303923602365145,
+                    "frontendQuestionId": "1604",
+                    "isFavor": false,
+                    "paidOnly": false,
+                    "status": null,
+                    "title": "Alert Using Same Key-Card Three or More Times in a One Hour Period",
+                    "titleSlug": "alert-using-same-key-card-three-or-more-times-in-a-one-hour-period",
+                    "topicTags": [
+                        {
+                            "name": "Array",
+                            "id": "VG9waWNUYWdOb2RlOjU=",
+                            "slug": "array"
+                        },
+                        {
+                            "name": "Hash Table",
+                            "id": "VG9waWNUYWdOb2RlOjY=",
+                            "slug": "hash-table"
+                        },
+                        {
+                            "name": "String",
+                            "id": "VG9waWNUYWdOb2RlOjEw",
+                            "slug": "string"
+                        },
+                        {
+                            "name": "Sorting",
+                            "id": "VG9waWNUYWdOb2RlOjYxMDQ5",
+                            "slug": "sorting"
+                        }
+                    ],
+                    "hasSolution": false,
+                    "hasVideoSolution": false
+                },
+                {
+                    "acRate": 64.42196622022416,
+                    "difficulty": "Hard",
+                    "freqBar": 39.495199894109085,
+                    "frontendQuestionId": "569",
+                    "isFavor": false,
+                    "paidOnly": true,
+                    "status": null,
+                    "title": "Median Employee Salary",
+                    "titleSlug": "median-employee-salary",
+                    "topicTags": [
+                        {
+                            "name": "Database",
+                            "id": "VG9waWNUYWdOb2RlOjYxMDQz",
+                            "slug": "database"
+                        }
+                    ],
+                    "hasSolution": false,
+                    "hasVideoSolution": false
+                },
+                {
+                    "acRate": 34.61371236560583,
+                    "difficulty": "Medium",
+                    "freqBar": 37.913262096077396,
+                    "frontendQuestionId": "418",
+                    "isFavor": false,
+                    "paidOnly": true,
+                    "status": null,
+                    "title": "Sentence Screen Fitting",
+                    "titleSlug": "sentence-screen-fitting",
+                    "topicTags": [
+                        {
+                            "name": "String",
+                            "id": "VG9waWNUYWdOb2RlOjEw",
+                            "slug": "string"
+                        },
+                        {
+                            "name": "Dynamic Programming",
+                            "id": "VG9waWNUYWdOb2RlOjEz",
+                            "slug": "dynamic-programming"
+                        }
+                    ],
+                    "hasSolution": false,
+                    "hasVideoSolution": false
+                },
+                {
+                    "acRate": 44.53602210205672,
+                    "difficulty": "Medium",
+                    "freqBar": 37.79241319359046,
+                    "frontendQuestionId": "210",
+                    "isFavor": false,
+                    "paidOnly": false,
+                    "status": null,
+                    "title": "Course Schedule II",
+                    "titleSlug": "course-schedule-ii",
+                    "topicTags": [
+                        {
+                            "name": "Depth-First Search",
+                            "id": "VG9waWNUYWdOb2RlOjIx",
+                            "slug": "depth-first-search"
+                        },
+                        {
+                            "name": "Breadth-First Search",
+                            "id": "VG9waWNUYWdOb2RlOjIy",
+                            "slug": "breadth-first-search"
+                        },
+                        {
+                            "name": "Graph",
+                            "id": "VG9waWNUYWdOb2RlOjI0",
+                            "slug": "graph"
+                        },
+                        {
+                            "name": "Topological Sort",
+                            "id": "VG9waWNUYWdOb2RlOjI2",
+                            "slug": "topological-sort"
+                        }
+                    ],
+                    "hasSolution": true,
+                    "hasVideoSolution": false
+                },
+                {
+                    "acRate": 56.1930340519651,
+                    "difficulty": "Medium",
+                    "freqBar": 33.40607498796134,
+                    "frontendQuestionId": "1052",
+                    "isFavor": false,
+                    "paidOnly": false,
+                    "status": null,
+                    "title": "Grumpy Bookstore Owner",
+                    "titleSlug": "grumpy-bookstore-owner",
+                    "topicTags": [
+                        {
+                            "name": "Array",
+                            "id": "VG9waWNUYWdOb2RlOjU=",
+                            "slug": "array"
+                        },
+                        {
+                            "name": "Sliding Window",
+                            "id": "VG9waWNUYWdOb2RlOjU1ODIx",
+                            "slug": "sliding-window"
+                        }
+                    ],
+                    "hasSolution": false,
+                    "hasVideoSolution": false
+                },
+                {
+                    "acRate": 63.004368453191795,
+                    "difficulty": "Medium",
+                    "freqBar": 27.350797923939403,
+                    "frontendQuestionId": "1861",
+                    "isFavor": false,
+                    "paidOnly": false,
+                    "status": null,
+                    "title": "Rotating the Box",
+                    "titleSlug": "rotating-the-box",
+                    "topicTags": [
+                        {
+                            "name": "Array",
+                            "id": "VG9waWNUYWdOb2RlOjU=",
+                            "slug": "array"
+                        },
+                        {
+                            "name": "Two Pointers",
+                            "id": "VG9waWNUYWdOb2RlOjk=",
+                            "slug": "two-pointers"
+                        },
+                        {
+                            "name": "Matrix",
+                            "id": "VG9waWNUYWdOb2RlOjYxMDUz",
+                            "slug": "matrix"
+                        }
+                    ],
+                    "hasSolution": false,
+                    "hasVideoSolution": false
+                },
+                {
+                    "acRate": 81.46757320955835,
+                    "difficulty": "Medium",
+                    "freqBar": 18.383829120965235,
+                    "frontendQuestionId": "1329",
+                    "isFavor": false,
+                    "paidOnly": false,
+                    "status": null,
+                    "title": "Sort the Matrix Diagonally",
+                    "titleSlug": "sort-the-matrix-diagonally",
+                    "topicTags": [
+                        {
+                            "name": "Array",
+                            "id": "VG9waWNUYWdOb2RlOjU=",
+                            "slug": "array"
+                        },
+                        {
+                            "name": "Sorting",
+                            "id": "VG9waWNUYWdOb2RlOjYxMDQ5",
+                            "slug": "sorting"
+                        },
+                        {
+                            "name": "Matrix",
+                            "id": "VG9waWNUYWdOb2RlOjYxMDUz",
+                            "slug": "matrix"
+                        }
+                    ],
+                    "hasSolution": true,
+                    "hasVideoSolution": true
+                },
+                {
+                    "acRate": 49.149493976697,
+                    "difficulty": "Medium",
+                    "freqBar": 17.717106776842456,
+                    "frontendQuestionId": "611",
+                    "isFavor": false,
+                    "paidOnly": false,
+                    "status": null,
+                    "title": "Valid Triangle Number",
+                    "titleSlug": "valid-triangle-number",
+                    "topicTags": [
+                        {
+                            "name": "Array",
+                            "id": "VG9waWNUYWdOb2RlOjU=",
+                            "slug": "array"
+                        },
+                        {
+                            "name": "Two Pointers",
+                            "id": "VG9waWNUYWdOb2RlOjk=",
+                            "slug": "two-pointers"
+                        },
+                        {
+                            "name": "Binary Search",
+                            "id": "VG9waWNUYWdOb2RlOjEx",
+                            "slug": "binary-search"
+                        },
+                        {
+                            "name": "Greedy",
+                            "id": "VG9waWNUYWdOb2RlOjE3",
+                            "slug": "greedy"
+                        },
+                        {
+                            "name": "Sorting",
+                            "id": "VG9waWNUYWdOb2RlOjYxMDQ5",
+                            "slug": "sorting"
+                        }
+                    ],
+                    "hasSolution": true,
+                    "hasVideoSolution": false
+                },
+                {
+                    "acRate": 32.347293223227155,
+                    "difficulty": "Hard",
+                    "freqBar": 17.444270787893835,
+                    "frontendQuestionId": "68",
+                    "isFavor": false,
+                    "paidOnly": false,
+                    "status": "ac",
+                    "title": "Text Justification",
+                    "titleSlug": "text-justification",
+                    "topicTags": [
+                        {
+                            "name": "Array",
+                            "id": "VG9waWNUYWdOb2RlOjU=",
+                            "slug": "array"
+                        },
+                        {
+                            "name": "String",
+                            "id": "VG9waWNUYWdOb2RlOjEw",
+                            "slug": "string"
+                        },
+                        {
+                            "name": "Simulation",
+                            "id": "VG9waWNUYWdOb2RlOjYxMDU1",
+                            "slug": "simulation"
+                        }
+                    ],
+                    "hasSolution": false,
+                    "hasVideoSolution": false
+                },
+                {
+                    "acRate": 43.954808259955584,
+                    "difficulty": "Medium",
+                    "freqBar": 12.422186882461343,
+                    "frontendQuestionId": "735",
+                    "isFavor": false,
+                    "paidOnly": false,
+                    "status": "ac",
+                    "title": "Asteroid Collision",
+                    "titleSlug": "asteroid-collision",
+                    "topicTags": [
+                        {
+                            "name": "Array",
+                            "id": "VG9waWNUYWdOb2RlOjU=",
+                            "slug": "array"
+                        },
+                        {
+                            "name": "Stack",
+                            "id": "VG9waWNUYWdOb2RlOjE1",
+                            "slug": "stack"
+                        }
+                    ],
+                    "hasSolution": true,
+                    "hasVideoSolution": false
+                },
+                {
+                    "acRate": 39.525108314294414,
+                    "difficulty": "Medium",
+                    "freqBar": 9.024626637286593,
+                    "frontendQuestionId": "93",
+                    "isFavor": false,
+                    "paidOnly": false,
+                    "status": null,
+                    "title": "Restore IP Addresses",
+                    "titleSlug": "restore-ip-addresses",
+                    "topicTags": [
+                        {
+                            "name": "String",
+                            "id": "VG9waWNUYWdOb2RlOjEw",
+                            "slug": "string"
+                        },
+                        {
+                            "name": "Backtracking",
+                            "id": "VG9waWNUYWdOb2RlOjE0",
+                            "slug": "backtracking"
+                        }
+                    ],
+                    "hasSolution": true,
+                    "hasVideoSolution": false
+                },
+                {
+                    "acRate": 39.370753163873054,
+                    "difficulty": "Hard",
+                    "freqBar": 8.310992648609158,
+                    "frontendQuestionId": "224",
+                    "isFavor": false,
+                    "paidOnly": false,
+                    "status": null,
+                    "title": "Basic Calculator",
+                    "titleSlug": "basic-calculator",
+                    "topicTags": [
+                        {
+                            "name": "Math",
+                            "id": "VG9waWNUYWdOb2RlOjg=",
+                            "slug": "math"
+                        },
+                        {
+                            "name": "String",
+                            "id": "VG9waWNUYWdOb2RlOjEw",
+                            "slug": "string"
+                        },
+                        {
+                            "name": "Stack",
+                            "id": "VG9waWNUYWdOb2RlOjE1",
+                            "slug": "stack"
+                        },
+                        {
+                            "name": "Recursion",
+                            "id": "VG9waWNUYWdOb2RlOjMx",
+                            "slug": "recursion"
+                        }
+                    ],
+                    "hasSolution": true,
+                    "hasVideoSolution": false
+                },
+                {
+                    "acRate": 36.425774110541184,
+                    "difficulty": "Medium",
+                    "freqBar": 3.914224825443148,
+                    "frontendQuestionId": "57",
+                    "isFavor": false,
+                    "paidOnly": false,
+                    "status": "ac",
+                    "title": "Insert Interval",
+                    "titleSlug": "insert-interval",
+                    "topicTags": [
+                        {
+                            "name": "Array",
+                            "id": "VG9waWNUYWdOb2RlOjU=",
+                            "slug": "array"
+                        }
+                    ],
+                    "hasSolution": true,
+                    "hasVideoSolution": false
+                },
+                {
+                    "acRate": 38.934717551415375,
+                    "difficulty": "Medium",
+                    "freqBar": 2.4542001952492636,
+                    "frontendQuestionId": "54",
+                    "isFavor": false,
+                    "paidOnly": false,
+                    "status": "ac",
+                    "title": "Spiral Matrix",
+                    "titleSlug": "spiral-matrix",
+                    "topicTags": [
+                        {
+                            "name": "Array",
+                            "id": "VG9waWNUYWdOb2RlOjU=",
+                            "slug": "array"
+                        },
+                        {
+                            "name": "Matrix",
+                            "id": "VG9waWNUYWdOb2RlOjYxMDUz",
+                            "slug": "matrix"
+                        },
+                        {
+                            "name": "Simulation",
+                            "id": "VG9waWNUYWdOb2RlOjYxMDU1",
+                            "slug": "simulation"
+                        }
+                    ],
+                    "hasSolution": true,
+                    "hasVideoSolution": false
+                },
+                {
+                    "acRate": 44.61388487710858,
+                    "difficulty": "Medium",
+                    "freqBar": 1.9479825840393445,
+                    "frontendQuestionId": "207",
+                    "isFavor": false,
+                    "paidOnly": false,
+                    "status": "ac",
+                    "title": "Course Schedule",
+                    "titleSlug": "course-schedule",
+                    "topicTags": [
+                        {
+                            "name": "Depth-First Search",
+                            "id": "VG9waWNUYWdOb2RlOjIx",
+                            "slug": "depth-first-search"
+                        },
+                        {
+                            "name": "Breadth-First Search",
+                            "id": "VG9waWNUYWdOb2RlOjIy",
+                            "slug": "breadth-first-search"
+                        },
+                        {
+                            "name": "Graph",
+                            "id": "VG9waWNUYWdOb2RlOjI0",
+                            "slug": "graph"
+                        },
+                        {
+                            "name": "Topological Sort",
+                            "id": "VG9waWNUYWdOb2RlOjI2",
+                            "slug": "topological-sort"
+                        }
+                    ],
+                    "hasSolution": true,
+                    "hasVideoSolution": false
+                },
+                {
+                    "acRate": 63.53329155046579,
+                    "difficulty": "Medium",
+                    "freqBar": 1.743861988636125,
+                    "frontendQuestionId": "48",
+                    "isFavor": false,
+                    "paidOnly": false,
+                    "status": null,
+                    "title": "Rotate Image",
+                    "titleSlug": "rotate-image",
+                    "topicTags": [
+                        {
+                            "name": "Array",
+                            "id": "VG9waWNUYWdOb2RlOjU=",
+                            "slug": "array"
+                        },
+                        {
+                            "name": "Math",
+                            "id": "VG9waWNUYWdOb2RlOjg=",
+                            "slug": "math"
+                        },
+                        {
+                            "name": "Matrix",
+                            "id": "VG9waWNUYWdOb2RlOjYxMDUz",
+                            "slug": "matrix"
+                        }
+                    ],
+                    "hasSolution": true,
+                    "hasVideoSolution": false
+                },
+                {
+                    "acRate": 53.69572487547308,
+                    "difficulty": "Hard",
+                    "freqBar": 1.5117371015092753,
+                    "frontendQuestionId": "42",
+                    "isFavor": false,
+                    "paidOnly": false,
+                    "status": "ac",
+                    "title": "Trapping Rain Water",
+                    "titleSlug": "trapping-rain-water",
+                    "topicTags": [
+                        {
+                            "name": "Array",
+                            "id": "VG9waWNUYWdOb2RlOjU=",
+                            "slug": "array"
+                        },
+                        {
+                            "name": "Two Pointers",
+                            "id": "VG9waWNUYWdOb2RlOjk=",
+                            "slug": "two-pointers"
+                        },
+                        {
+                            "name": "Dynamic Programming",
+                            "id": "VG9waWNUYWdOb2RlOjEz",
+                            "slug": "dynamic-programming"
+                        },
+                        {
+                            "name": "Stack",
+                            "id": "VG9waWNUYWdOb2RlOjE1",
+                            "slug": "stack"
+                        },
+                        {
+                            "name": "Monotonic Stack",
+                            "id": "VG9waWNUYWdOb2RlOjYxMDU0",
+                            "slug": "monotonic-stack"
+                        }
+                    ],
+                    "hasSolution": true,
+                    "hasVideoSolution": false
+                },
+                {
+                    "acRate": 51.535020143814755,
+                    "difficulty": "Medium",
+                    "freqBar": 1.1222225644788155,
+                    "frontendQuestionId": "200",
+                    "isFavor": false,
+                    "paidOnly": false,
+                    "status": "ac",
+                    "title": "Number of Islands",
+                    "titleSlug": "number-of-islands",
+                    "topicTags": [
+                        {
+                            "name": "Array",
+                            "id": "VG9waWNUYWdOb2RlOjU=",
+                            "slug": "array"
+                        },
+                        {
+                            "name": "Depth-First Search",
+                            "id": "VG9waWNUYWdOb2RlOjIx",
+                            "slug": "depth-first-search"
+                        },
+                        {
+                            "name": "Breadth-First Search",
+                            "id": "VG9waWNUYWdOb2RlOjIy",
+                            "slug": "breadth-first-search"
+                        },
+                        {
+                            "name": "Union Find",
+                            "id": "VG9waWNUYWdOb2RlOjIz",
+                            "slug": "union-find"
+                        },
+                        {
+                            "name": "Matrix",
+                            "id": "VG9waWNUYWdOb2RlOjYxMDUz",
+                            "slug": "matrix"
+                        }
+                    ],
+                    "hasSolution": true,
+                    "hasVideoSolution": false
+                },
+                {
+                    "acRate": 81.76072779969407,
+                    "difficulty": "Easy",
+                    "freqBar": 0,
+                    "frontendQuestionId": "1684",
+                    "isFavor": false,
+                    "paidOnly": false,
+                    "status": null,
+                    "title": "Count the Number of Consistent Strings",
+                    "titleSlug": "count-the-number-of-consistent-strings",
+                    "topicTags": [
+                        {
+                            "name": "Array",
+                            "id": "VG9waWNUYWdOb2RlOjU=",
+                            "slug": "array"
+                        },
+                        {
+                            "name": "Hash Table",
+                            "id": "VG9waWNUYWdOb2RlOjY=",
+                            "slug": "hash-table"
+                        },
+                        {
+                            "name": "String",
+                            "id": "VG9waWNUYWdOb2RlOjEw",
+                            "slug": "string"
+                        },
+                        {
+                            "name": "Bit Manipulation",
+                            "id": "VG9waWNUYWdOb2RlOjE5",
+                            "slug": "bit-manipulation"
+                        }
+                    ],
+                    "hasSolution": false,
+                    "hasVideoSolution": false
+                },
+                {
+                    "acRate": 27.656573670060382,
+                    "difficulty": "Medium",
+                    "freqBar": 0,
+                    "frontendQuestionId": "1711",
+                    "isFavor": false,
+                    "paidOnly": false,
+                    "status": null,
+                    "title": "Count Good Meals",
+                    "titleSlug": "count-good-meals",
+                    "topicTags": [
+                        {
+                            "name": "Array",
+                            "id": "VG9waWNUYWdOb2RlOjU=",
+                            "slug": "array"
+                        },
+                        {
+                            "name": "Hash Table",
+                            "id": "VG9waWNUYWdOb2RlOjY=",
+                            "slug": "hash-table"
+                        }
+                    ],
+                    "hasSolution": false,
+                    "hasVideoSolution": false
+                },
+                {
+                    "acRate": 29.62558275058275,
+                    "difficulty": "Medium",
+                    "freqBar": 0,
+                    "frontendQuestionId": "1712",
+                    "isFavor": false,
+                    "paidOnly": false,
+                    "status": null,
+                    "title": "Ways to Split Array Into Three Subarrays",
+                    "titleSlug": "ways-to-split-array-into-three-subarrays",
+                    "topicTags": [
+                        {
+                            "name": "Array",
+                            "id": "VG9waWNUYWdOb2RlOjU=",
+                            "slug": "array"
+                        },
+                        {
+                            "name": "Two Pointers",
+                            "id": "VG9waWNUYWdOb2RlOjk=",
+                            "slug": "two-pointers"
+                        },
+                        {
+                            "name": "Binary Search",
+                            "id": "VG9waWNUYWdOb2RlOjEx",
+                            "slug": "binary-search"
+                        },
+                        {
+                            "name": "Prefix Sum",
+                            "id": "VG9waWNUYWdOb2RlOjYxMDY4",
+                            "slug": "prefix-sum"
+                        }
+                    ],
+                    "hasSolution": false,
+                    "hasVideoSolution": false
+                },
+                {
+                    "acRate": 66.3237039968342,
+                    "difficulty": "Medium",
+                    "freqBar": 0,
+                    "frontendQuestionId": "1743",
+                    "isFavor": false,
+                    "paidOnly": false,
+                    "status": null,
+                    "title": "Restore the Array From Adjacent Pairs",
+                    "titleSlug": "restore-the-array-from-adjacent-pairs",
+                    "topicTags": [
+                        {
+                            "name": "Array",
+                            "id": "VG9waWNUYWdOb2RlOjU=",
+                            "slug": "array"
+                        },
+                        {
+                            "name": "Hash Table",
+                            "id": "VG9waWNUYWdOb2RlOjY=",
+                            "slug": "hash-table"
+                        }
+                    ],
+                    "hasSolution": false,
+                    "hasVideoSolution": false
+                },
+                {
+                    "acRate": 44.661341134113414,
+                    "difficulty": "Medium",
+                    "freqBar": 0,
+                    "frontendQuestionId": "1801",
+                    "isFavor": false,
+                    "paidOnly": false,
+                    "status": null,
+                    "title": "Number of Orders in the Backlog",
+                    "titleSlug": "number-of-orders-in-the-backlog",
+                    "topicTags": [
+                        {
+                            "name": "Array",
+                            "id": "VG9waWNUYWdOb2RlOjU=",
+                            "slug": "array"
+                        },
+                        {
+                            "name": "Heap (Priority Queue)",
+                            "id": "VG9waWNUYWdOb2RlOjYxMDUw",
+                            "slug": "heap-priority-queue"
+                        },
+                        {
+                            "name": "Simulation",
+                            "id": "VG9waWNUYWdOb2RlOjYxMDU1",
+                            "slug": "simulation"
+                        }
+                    ],
+                    "hasSolution": false,
+                    "hasVideoSolution": false
+                },
+                {
+                    "acRate": 91.40309912969646,
+                    "difficulty": "Medium",
+                    "freqBar": 0,
+                    "frontendQuestionId": "1393",
+                    "isFavor": false,
+                    "paidOnly": true,
+                    "status": null,
+                    "title": "Capital Gain/Loss",
+                    "titleSlug": "capital-gainloss",
+                    "topicTags": [
+                        {
+                            "name": "Database",
+                            "id": "VG9waWNUYWdOb2RlOjYxMDQz",
+                            "slug": "database"
+                        }
+                    ],
+                    "hasSolution": false,
+                    "hasVideoSolution": false
+                }
+            ]
+        }
+    }
+}
